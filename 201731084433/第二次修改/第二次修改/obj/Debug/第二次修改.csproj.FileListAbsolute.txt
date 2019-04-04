@@ -1,0 +1,7 @@
+D:\代码夹\第二次修改\第二次修改\bin\Debug\第二次修改.exe.config
+D:\代码夹\第二次修改\第二次修改\bin\Debug\第二次修改.exe
+D:\代码夹\第二次修改\第二次修改\bin\Debug\第二次修改.pdb
+D:\代码夹\第二次修改\第二次修改\obj\Debug\第二次修改.csprojAssemblyReference.cache
+D:\代码夹\第二次修改\第二次修改\obj\Debug\第二次修改.csproj.CoreCompileInputs.cache
+D:\代码夹\第二次修改\第二次修改\obj\Debug\第二次修改.exe
+D:\代码夹\第二次修改\第二次修改\obj\Debug\第二次修改.pdb
