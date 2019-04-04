@@ -1,0 +1,7 @@
+D:\代码夹\第三次作业代码\第三次作业代码\bin\Debug\第三次作业代码.exe.config
+D:\代码夹\第三次作业代码\第三次作业代码\bin\Debug\第三次作业代码.exe
+D:\代码夹\第三次作业代码\第三次作业代码\bin\Debug\第三次作业代码.pdb
+D:\代码夹\第三次作业代码\第三次作业代码\obj\Debug\第三次作业代码.csprojAssemblyReference.cache
+D:\代码夹\第三次作业代码\第三次作业代码\obj\Debug\第三次作业代码.csproj.CoreCompileInputs.cache
+D:\代码夹\第三次作业代码\第三次作业代码\obj\Debug\第三次作业代码.exe
+D:\代码夹\第三次作业代码\第三次作业代码\obj\Debug\第三次作业代码.pdb
